@@ -96,5 +96,5 @@ This tool was built for internal use and may not follow full production best pra
 
 ## 👤 Author
 
-**Shafiq Khalid**
+**Shafiq Khalid**  
 Senior PHP Software Engineer
